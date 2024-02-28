@@ -23,7 +23,4 @@ mandir wahi bananege
 >>>>>>> simulations
 #naach 
 we have 50 dancers to dance on the ruins 
-iss paar 4534455445 cxzcjkkzxj4545547v
 
-1331
-565ada
