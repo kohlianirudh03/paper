@@ -13,3 +13,7 @@ phad mein ja
 BULLDOZER NE UDAI GHAR (cmo 2021)
 
 CHAPRA MEIN LG GAI AAG (HINDU 2023)
+#simulation
+50 ghar beghar 
+1 cr ki propert wapis
+mandir wahi bananege 
