@@ -1,1 +1,2 @@
 1. Kinking in FRP , Philip withers ,2018
+2. Micromechanics in kinking , Lars 2018
