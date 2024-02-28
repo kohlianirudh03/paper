@@ -2,7 +2,7 @@
 Kinking in CFRP
 #aUTHOR
 ANIRUDH KOHLI
-
+yogi adiyanath
 #Introduction
 Kinking basically means waviness or bending of fibre in CFRP
 
@@ -14,6 +14,10 @@ BULLDOZER NE UDAI GHAR (cmo 2021)
 
 CHAPRA MEIN LG GAI AAG (HINDU 2023)
 #simulation
+<<<<<<< HEAD
 50 ghar beghar 
 1 cr ki propert wapis
 mandir wahi bananege 
+=======
+
+>>>>>>> simulations
